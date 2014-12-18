@@ -44,7 +44,8 @@ Darsana 開催時のIngress Damage Report メールからGoogleスプレッド�
 var thds = GmailApp.search("label:darsana")
 ```
 
-の「label:darsana」を変更してください。
+の「label:darsana」を変更してください。(大文字、小文字区別されます)
+
 
 
 Googleスプレッドシートへの配置
