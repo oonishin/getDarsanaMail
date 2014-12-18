@@ -10,7 +10,15 @@ Darsana 開催時のIngress Damage Report メールからGoogleスプレッド�
 を抽出するスクリプトです。
 
 利用方法
+---------
 
 事前にGmailで12/13 Darsana開催時のメールに
-Darsana
+
+* Darsana
+
 のラベルを付与してください。
+
+Googleスプレッドシートの
+[ツール]−[スクリプトエディタ]に
+getDarsanaMail.js
+の内容を記載して、「関数を選択」でgetDarsanaMailを選択して実行してください。
