@@ -35,7 +35,18 @@ Darsana 開催時のIngress Damage Report メールからGoogleスプレッド�
     var thds = GmailApp.search("after:2014/12/13 before:2014/12/14 from:(ingress-support@google.com) subject:(Ingress Damage Report: Entities attacked by)")
 ```
 として、12/13～14分のDamage Reportで処理して、Googleスプレッドシートで不要なデータを削除してください。
-※Gmailは一日分のみのデータ検索できないので、こんな形です。
+
+※Gmailは一日分のみだけのデータ検索できないので、こんな形です。
+
+また、Darsana以外のラベル名のつけている場合は、
+
+```
+var thds = GmailApp.search("label:darsana")
+```
+
+の「label:darsana」を変更してください。
+
+
 
 Googleスプレッドシートで新規のスプレッドシートを作成し、
 
