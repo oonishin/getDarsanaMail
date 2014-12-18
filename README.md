@@ -41,5 +41,6 @@ Googleスプレッドシートで新規のスプレッドシートを作成し�
 
 そのシートデータを元にピボットテーブル等で解析が可能です。
 
-参考：
+実行例：
+
 https://docs.google.com/spreadsheets/d/1snV1WThWBiUMYQe_-prZrPEXjl4Qb0YpvQKrknkENCE/edit?usp=sharing
