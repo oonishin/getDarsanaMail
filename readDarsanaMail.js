@@ -1,6 +1,7 @@
 function readDarsanaMail(){
   var sheet = SpreadsheetApp.getActiveSheet();
   var thds = GmailApp.search("label:darsana")
+//  var thds = GmailApp.search("after:2014/12/13 before:2014/12/14 from:(ingress-support@google.com) subject:(Ingress Damage Report: Entities attacked by)")
   var row = 1;
 
   sheet.getRange(row,1).setValue("Date");
