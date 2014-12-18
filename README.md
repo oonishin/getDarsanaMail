@@ -27,7 +27,7 @@ Googleスプレッドシートで新規のスプレッドシートを作成し�
 
 に
 
-* [readDarsanaMail.js]: https://github.com/oonishin/getIngressMail/blob/master/readDarsanaMail.js
+* [readDarsanaMail.js](https://github.com/oonishin/getIngressMail/blob/master/readDarsanaMail.js)
 
 の内容を記載して、「関数を選択」でgetDarsanaMailを選択して実行してください。
 
