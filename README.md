@@ -47,6 +47,9 @@ var thds = GmailApp.search("label:darsana")
 の「label:darsana」を変更してください。
 
 
+Googleスプレッドシートへの配置
+-------------------------------
+
 
 Googleスプレッドシートで新規のスプレッドシートを作成し、
 
