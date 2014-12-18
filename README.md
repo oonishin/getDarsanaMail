@@ -19,6 +19,11 @@ Darsana 開催時のIngress Damage Report メールからGoogleスプレッド�
 のラベルを付与してください。
 
 Googleスプレッドシートの
-[ツール]−[スクリプトエディタ]に
-getDarsanaMail.js
+
+* [ツール]−[スクリプトエディタ]
+
+に
+
+* getDarsanaMail.js
+
 の内容を記載して、「関数を選択」でgetDarsanaMailを選択して実行してください。
