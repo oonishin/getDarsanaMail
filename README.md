@@ -1,5 +1,8 @@
-getDarsanaMail
+getIngressMail
 ==============
+
+readDarsanaMail.js
+------------------
 
 Darsana 開催時のIngress Damage Report メールからGoogleスプレッドシートに
 
@@ -24,6 +27,6 @@ Googleスプレッドシートの
 
 に
 
-* getDarsanaMail.js
+* readDarsanaMail.js
 
 の内容を記載して、「関数を選択」でgetDarsanaMailを選択して実行してください。
