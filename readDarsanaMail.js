@@ -25,6 +25,7 @@ function readDarsanaMail(){
                Portal = Portal_temp.replace(/\" height=\"160\".*/,"");
 
            sheet.getRange(row,1).setValue(date);
+           sheet.getRange(row,1).setNumberFormat("yyyy/MM/dd H:mm:ss");
            sheet.getRange(row,2).setValue(Portal);
            sheet.getRange(row,3).setValue(Agent);
         row++;
